@@ -7,7 +7,7 @@ import './index.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/skillsphere">
+    <BrowserRouter>
       <App />
     </BrowserRouter>
   </StrictMode>
